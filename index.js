@@ -1,5 +1,4 @@
 
-
 var randomNumber1 = match.floor(match.random() * 6) + 1;
 var randomDiceImage = "dice" + randomNumber1 + ".png";
 var randomImageSource = "images/" + randomDiceImage;
